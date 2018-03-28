@@ -1,4 +1,3 @@
 ## FACEBOOK TUTORIALS
 
-Các tuts và tools liệt kê dưới đây được đóng góp bởi cộng đồng:
-
+Share mà ghi nguồn thì mình cảm ơn, copy mà ko ghi nguồn thì cũng chả sao, kệ con mẹ các bạn. Thằng nào sống hèn thằng đó thiệt thôi.
