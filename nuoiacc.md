@@ -17,4 +17,4 @@ Cái này do ông lớn Firefox phát triển vì vậy yên tâm quá rồi cò
 
 *   P/s: Mình dùng thấy thích vô cùng, anh em thao hồ yên tâm mà dùng
 
-[back](./)
+[Quay Lại](./)
