@@ -16,3 +16,5 @@ Cái này do ông lớn Firefox phát triển vì vậy yên tâm quá rồi cò
 *   Link tải addon, dùng #firefox bản mới nhất để tải nhé
 
 *   P/s: Mình dùng thấy thích vô cùng, anh em thao hồ yên tâm mà dùng
+
+[back](./)
