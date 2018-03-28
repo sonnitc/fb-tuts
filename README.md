@@ -5,4 +5,4 @@ Share mà ghi nguồn thì mình cảm ơn, copy mà ko ghi nguồn thì cũng c
 ---
 layout: default
 ---
-[Link to another page](nuoiacc).
+[Link to another page](nuoiacc.md).
